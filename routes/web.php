@@ -17,3 +17,28 @@ Route::get('/', function () {
     return view('home');
 }) ->name('home');
 
+
+Route::get('/info', function () {
+    return view('info');
+}) ->name('info');
+
+
+Route::get('/contact', function () {
+    return view('contact');
+}) ->name('contact');
+
+
+
+Route::get('/tnf', function () {
+    return view('tnf');
+}) ->name('tnf');
+
+
+Route::get('/hiring', function () {
+    return view('hiring');
+}) ->name('hiring');
+
+Route::get('/tbags', function () {
+    return view('tbags');
+}) ->name('tbags');
+
