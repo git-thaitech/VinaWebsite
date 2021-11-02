@@ -1,12 +1,12 @@
-#carousel .carousel-item.boat {
+#carousel .carousel-item.slide1 {
     background-image: url("https://www.takeuchi-const.co.jp/images/index/slide03.jpg");
   }
   
-  #carousel .carousel-item.sea {
+  #carousel .carousel-item.slide2 {
     background-image: url("https://www.takeuchi-const.co.jp/images/index/slide02.jpg");
   }
   
-  #carousel .carousel-item.river {
+  #carousel .carousel-item.slide3 {
     background-image: url("https://www.takeuchi-const.co.jp/images/index/slide01.jpg");
   }
   
