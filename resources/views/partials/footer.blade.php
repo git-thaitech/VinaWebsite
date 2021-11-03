@@ -23,7 +23,7 @@
                         <li><i></i> <a href="#">Công nghệ T-BAGS</a></li>
                         <li><i></i> <a href="#">Công nghệ khác</a></li>
                         <li><i></i> <a href="#">Dự án</a></li>
-                        <li><i></i> <a href="#">Chính sách bảo mật</a></li>
+                        <li><i></i> <a href="#">Tin tức</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-12 col-md-6 partner-logo" style="text-align: center;">
