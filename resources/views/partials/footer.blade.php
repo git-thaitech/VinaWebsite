@@ -40,13 +40,14 @@
                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.4729564410736!2d106.62625131533457!3d10.851586760767974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529898f85dc4f%3A0xc5cedf8e56346448!2zVMOyYSBOaMOgIEFubmE!5e0!3m2!1svi!2s!4v1635751755874!5m2!1svi!2s"
                     width="100%" height="200px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
+                <div>
+                    <p>Tầng Trệt, tòa nhà Anna, Công viên Quang Trung, Phường Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí
+                        Minh
+                    </p>
 
-                <p>Tầng Trệt, tòa nhà Anna, Công viên Quang Trung, Phường Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí
-                    Minh
-                </p>
-
-                <p>TEL: (+84) 28 3891 1990 <br> MOBILE: (+84) 979 140 220</p>
-                <p>E-mail: tuan@v-takeuchi.vn</p>
+                    <p>TEL: (+84) 28 3891 1990 <br> MOBILE: (+84) 979 140 220</p>
+                    <p>E-mail: tuan@v-takeuchi.vn</p>
+                </div>
 
 
             </div>

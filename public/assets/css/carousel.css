@@ -1,54 +1,56 @@
 #carousel .carousel-item.slide1 {
     background-image: url("https://www.takeuchi-const.co.jp/images/index/slide03.jpg");
-  }
-  
-  #carousel .carousel-item.slide2 {
+}
+
+#carousel .carousel-item.slide2 {
     background-image: url("https://www.takeuchi-const.co.jp/images/index/slide02.jpg");
-  }
-  
-  #carousel .carousel-item.slide3 {
+}
+
+#carousel .carousel-item.slide3 {
     background-image: url("https://www.takeuchi-const.co.jp/images/index/slide01.jpg");
-  }
-  
-  #carousel .carousel-item {
+}
+
+#carousel .carousel-item {
     height: 70vh;
     width: 100%;
     min-height: 350px;
     background: no-repeat center center scroll;
     background-size: cover;
-  }
-  
-  #carousel .carousel-inner .carousel-item {
+}
+
+#carousel .carousel-inner .carousel-item {
     transition: -webkit-transform 2s ease;
     transition: transform 2s ease;
     transition: transform 2s ease, -webkit-transform 2s ease;
-  }
-  
-  #carousel .carousel-item .caption {
+}
+
+#carousel .carousel-item .caption {
     background-color: rgba(0, 0, 0, 0.5);
     padding: 40px;
     color: white;
     animation-duration: 1s;
     animation-delay: 2s;
-  }
-  
-  #carousel .caption h2 {
+}
+
+#carousel .caption h2 {
     animation-duration: 1s;
     animation-delay: 2s;
-  }
-  
-  #carousel .caption p {
+}
+
+#carousel .caption p {
     animation-duration: 1s;
     animation-delay: 2.2s;
-  }
-  
-  #carousel .caption a {
+}
+
+#carousel .caption a {
     animation-duration: 1s;
     animation-delay: 2.4s;
-  }
-  
-  /* Button */
-  .delicious-btn {
+}
+
+
+/* Button */
+
+.delicious-btn {
     display: inline-block;
     min-width: 160px;
     height: 60px;
@@ -64,12 +66,14 @@
     transition-duration: 500ms;
     text-transform: capitalize;
     background-color: #da2020;
-  }
-  
-  .delicious-btn.active, .delicious-btn:hover, .delicious-btn:focus {
+}
+
+.delicious-btn.active,
+.delicious-btn:hover,
+.delicious-btn:focus {
     font-size: 16px;
     font-weight: 600;
     color: #ffffff;
     background-color: #960000;
     border-color: #df3c3c;
-  }
+}
