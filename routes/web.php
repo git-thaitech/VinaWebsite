@@ -14,6 +14,35 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('layouts.home');
+    return view('home',['active'=>'home']);
 }) ->name('home');
+
+
+Route::get('/info', function () {
+    return view('info', ['active'=>'info']);
+}) ->name('info');
+
+
+Route::get('/contact', function () {
+    return view('contact',['active'=>'contact']);
+}) ->name('contact');
+
+
+
+Route::get('/tnf', function () {
+    return view('tnf',['active'=>'tnf']);
+}) ->name('tnf');
+
+Route::get('/quality_management', function () {
+    return view('quality_management',['active'=>'quality_management']);
+}) ->name('quality_management');
+
+
+Route::get('recruitment', function () {
+    return view('recruitment',['active'=>'recruitment']);
+}) ->name('recruitment');
+
+Route::get('/tbags', function () {
+    return view('tbags',['active'=>'tbags']);
+}) ->name('tbags');
 
