@@ -66,7 +66,17 @@
                             </li>
                             @endif
 
-                            @if ($active == 'recruitment')
+                            @if ($active == 'quality_management')
+                            <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 active">
+                                <a class="nav-link" href="{{ route('quality_management') }}">Quản lý chất lượng</a>
+                            </li>
+                            @else
+                            <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+                                <a class="nav-link" href="{{ route('quality_management') }}">Quản lý chất lượng</a>
+                            </li>
+                            @endif
+
+                            {{-- @if ($active == 'recruitment')
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 active">
                                 <a class="nav-link" href="{{ route('recruitment') }}">Tuyển dụng</a>
                             </li>
@@ -74,7 +84,7 @@
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
                                 <a class="nav-link" href="{{ route('recruitment') }}">Tuyển dụng</a>
                             </li>
-                            @endif
+                            @endif --}}
 
                             @if ($active == 'contact')
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 active">

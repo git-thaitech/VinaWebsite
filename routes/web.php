@@ -33,6 +33,10 @@ Route::get('/tnf', function () {
     return view('tnf',['active'=>'tnf']);
 }) ->name('tnf');
 
+Route::get('/quality_management', function () {
+    return view('quality_management',['active'=>'quality_management']);
+}) ->name('quality_management');
+
 
 Route::get('recruitment', function () {
     return view('recruitment',['active'=>'recruitment']);

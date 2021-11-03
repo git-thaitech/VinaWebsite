@@ -52,7 +52,7 @@
 
             </div>
             {{-- Social media --}}
-            <div class="col-lg-4 col-md-6 partial-column3">
+            {{-- <div class="col-lg-4 col-md-6 partial-column3">
                 <div class="fb-page" data-href="https://www.facebook.com/VinaTakeuchi2019" data-width="450px"
                     data-hide-cover="false" data-show-facepile="true" data-tabs="timeline" data-height="350px"
                     style="margin: 0 auto;">
@@ -61,7 +61,7 @@
                 <script async defer crossorigin="anonymous"
                                 src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v5.0&appId=660344757451291&autoLogAppEvents=1">
                 </script>
-            </div>
+            </div> --}}
         </div>
     </div>
 
